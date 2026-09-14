@@ -31,6 +31,9 @@ export default function Footer() {
           <Link href="/privacy" className="text-ink-muted hover:text-ink">
             Privacy Policy
           </Link>
+          <Link href="/terms" className="text-ink-muted hover:text-ink">
+            Terms of Service
+          </Link>
         </div>
       </div>
       <div className="border-t border-border-soft px-5 py-5 text-center text-xs text-ink-dim sm:px-8">
