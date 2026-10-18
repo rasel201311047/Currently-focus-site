@@ -61,9 +61,9 @@ export default function Home() {
               Split any subject into focused time blocks.
             </h1>
             <p className="mt-6 max-w-md text-base leading-relaxed text-ink-muted sm:text-lg">
-              Currently Focus breaks a big topic into small, timed pieces —
-              by AI or by hand — then hands you a stopwatch built for
-              getting through them, one block at a time.
+              Currently Focus breaks a big topic into small, timed pieces — by
+              AI or by hand — then hands you a stopwatch built for getting
+              through them, one block at a time.
             </p>
             <div className="mt-9 flex flex-wrap items-center gap-4">
               <Link
@@ -129,8 +129,8 @@ export default function Home() {
               Built around how studying actually goes
             </h2>
             <p className="mt-4 text-ink-muted">
-              Not every session goes to plan. Currently Focus is built to
-              bend with that instead of resetting your progress.
+              Not every session goes to plan. Currently Focus is built to bend
+              with that instead of resetting your progress.
             </p>
           </div>
 
@@ -158,12 +158,10 @@ export default function Home() {
       <section className="border-t border-border-soft">
         <div className="mx-auto max-w-3xl px-5 py-20 text-center sm:px-8 sm:py-28">
           <p className="font-display text-2xl leading-snug text-ink sm:text-3xl">
-            &ldquo;I stopped staring at one assignment for an hour and
-            actually moved through it, block by block.&rdquo;
+            &ldquo;I stopped staring at one assignment for an hour and actually
+            moved through it, block by block.&rdquo;
           </p>
-          <p className="mt-5 text-sm text-ink-dim">
-            A Currently Focus user
-          </p>
+          <p className="mt-5 text-sm text-ink-dim">A Currently Focus user</p>
         </div>
       </section>
 
@@ -176,13 +174,13 @@ export default function Home() {
                 Get Currently Focus on your phone
               </h2>
               <p className="mt-3 max-w-sm text-sm text-ink-muted">
-                Free to download. Sign in with Google Classroom or your
-                email to get started.
+                Free to download. Sign in with Google Classroom or your email to
+                get started.
               </p>
             </div>
             <div className="flex flex-wrap gap-3">
               <a
-                href="#"
+                href="https://apps.apple.com/us/app/currently-focus/id6786529704"
                 className="flex items-center gap-2.5 rounded-xl border border-border bg-surface-raised px-5 py-3 transition-colors hover:border-accent-soft/60"
               >
                 <AppleGlyph />
@@ -196,7 +194,7 @@ export default function Home() {
                 </span>
               </a>
               <a
-                href="#"
+                href="https://play.google.com/store/apps/details?id=com.mdraselbabu0367.currently"
                 className="flex items-center gap-2.5 rounded-xl border border-border bg-surface-raised px-5 py-3 transition-colors hover:border-accent-soft/60"
               >
                 <PlayGlyph />
